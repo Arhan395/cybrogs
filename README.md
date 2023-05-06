@@ -11,7 +11,7 @@
 ### Health Bot
 
 # Project Links:
-## Github Reposistory Link : https://arhan395.github.io/cybrogs/
+## Github Reposistory Link : https://github.com/Arhan395/cybrogs
 ## Azure Project Link: https://happy-ocean-0e340a210.3.azurestaticapps.net/
 
 # Microsoft Azure Technologies Screen Shots:
