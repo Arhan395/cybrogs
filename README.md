@@ -39,13 +39,23 @@
 # Project Screen shots:
 
 ### Homepage:
+![homepage](https://user-images.githubusercontent.com/115639848/236601544-7fac90a8-5b74-4281-9904-78ae7147f1d2.png)
 
 ### About project:
+![about project](https://user-images.githubusercontent.com/115639848/236601582-0cae382c-ec81-46a4-a409-34a4da4cf4de.png)
 
 ### Types of Cybrogs:
+![types](https://user-images.githubusercontent.com/115639848/236601592-ac483f9f-a1e1-4a3e-91b7-e612462447ad.png)
 
 ### Contact us page:
+![contact us](https://user-images.githubusercontent.com/115639848/236601644-b30982dd-73b6-4f87-8ca8-e1e3ac2161fd.png)
 
 ### Bot page:
+![bot page](https://user-images.githubusercontent.com/115639848/236601657-5e1329b6-8dda-4b63-accb-9f0e9d371cc4.png)
+
+![func1](https://user-images.githubusercontent.com/115639848/236601679-f339e8b6-789a-4a1f-8b45-d0a801ef6bd4.png)
+
+![func2](https://user-images.githubusercontent.com/115639848/236601692-02a38f1f-c508-43a5-9dfe-c92083b3ef6b.png)
+
 
 
